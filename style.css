@@ -53,7 +53,7 @@ body {
     display: block;
     background-color: #689caa;
     border-radius: 50%;
-    width: 38%;
+    width: 50%;
     height: 70%;
     transition: 1s;
 }
@@ -78,7 +78,7 @@ body {
     display: block;
     background-color: #689caa;
     border-radius: 50%;
-    width: 38%;
+    width: 50%;
     height: 70%;
     transition: 1s;
 }
